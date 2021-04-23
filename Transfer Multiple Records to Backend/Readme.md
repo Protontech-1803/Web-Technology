@@ -14,8 +14,7 @@ This POC illustrates how to pass multiple records to a table from one page to an
  
 
   Output of the above code:
-  
-   ![Alt text](https://github.com/Protontech-1803/Web-Technology/blob/main/Transfer%20Multiple%20Records%20to%20Backend/ImagePNG/2.png)
+      ![Alt text](https://github.com/Protontech-1803/Web-Technology/blob/main/Transfer%20Multiple%20Records%20to%20Backend/ImagePNG/2.png)
 
  
 3.	Select the required records using checkbox and click on Check Data to trigger the JavaScript function to filter the selected applicant’s data in a table.
