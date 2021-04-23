@@ -1,4 +1,4 @@
-# Select Multiple Rows in Table and Pass Row Values to Backend using Ajax & JavaScript.
+# Select Multiple Rows in Table and Pass Row Values to Backend using Ajax & JavaScript
 
 
 This POC illustrates how to pass multiple records to a table from one page to another page in the form of array using JavaScript and Ajax. Job applicant data is taken and stored in the form of table. In every record their will be unique value for that particular record, that unique value is taken and stored in JavaScript array. Then this array of unique data is passed in to the backend with the help of ajax for the further use of multiple record Updation or deletion in database.
